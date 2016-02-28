@@ -1,4 +1,4 @@
-# Facebook to MemberPress Bridge
+# Facebook to MemberPress Bridge Plugin for WordPress 
 Create a MemberPress transaction when a user registers with Facebook.
 
 Note: This plugin was developed to work with MemberPress Developer Edition version 1.2.6 and
